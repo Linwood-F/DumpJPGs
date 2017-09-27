@@ -1,0 +1,1 @@
+﻿This will dump some or all of the preview folder from Lightroom to JPG's.	
