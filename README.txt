@@ -10,5 +10,5 @@ etc.
 
 You can build the executable from source, or download the executable provided.
 
-The latest 64 bit executable is shown in the top level folder, you can just download it and run.
+The latest 64 bit executable is shown in the DumpJPS/bin/x64/Debug folder, you can just download it and run.
 Sorry, I didn't build 32 bit.
